@@ -10,6 +10,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <div align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=%Paisagem%7D&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true%22/%3E
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=%Paisagem%7D&layout=compact&langs_count=7&theme=tokyonight&include_all_commits=true&count_private=true%22/%3E
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=%Paisagem%7D&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true%22/%3E">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/!?username=%Paisagem%7D&layout=compact&langs_count=7&theme=tokyonight&include_all_commits=true&count_private=true%22/%3E">
 </div>
